@@ -4,7 +4,7 @@ Summer 2025 – Quantum Computing &amp; AI Internship/Research Availability
 **Temitope Adeniyi**  
 PhD Student | Quantum Computing | AI | Science Policy  
 
-Hi! I’m Temitope, a PhD student in Computer Science at Cleveland State University, working at the intersection of quantum computing, machine learning, and science policy. Due to an unexpected change in my summer research funding, I’m currently available for Summer 2025 opportunities. I’m open to remote, short-term, or project-based roles where I can contribute to ongoing work in:
+Hi! I’m Temitope, a PhD student in Computer Science at Cleveland State University, working at the intersection of quantum computing, machine learning, and science policy. I’m currently available for Summer 2025 opportunities. I’m open to remote, short-term, or project-based roles where I can contribute to ongoing work in:
 
 - Quantum circuit optimisation and sensing
 - Quantum machine learning and hybrid models

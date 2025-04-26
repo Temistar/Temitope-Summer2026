@@ -54,7 +54,7 @@ Hi! I’m Temitope, a PhD student in Computer Science at Cleveland State Univers
 → See `projects/qc_ai_workshops/`
 
 ---
-5. Quantum Machine Learning for Medical Diagnosis
+### 5. Quantum Machine Learning for Medical Diagnosis
 Tools: Qiskit Machine Learning, Quantum SVM (QSVM), Quantum CNN, Hybrid NN
 Goal: Apply quantum-enhanced machine learning models to detect diseases from medical imaging data
 Outcome:
@@ -64,7 +64,8 @@ Developed QSVM models for brain tumor detection and retinal disease classificati
 Built a fully quantum CNN and hydrid NN model for pneumonia detection from chest X-rays
 
 Investigated quantum feature maps to enhance diagnosis accuracy on pancreas disease datasets
-→ See projects/quantum_medical_diagnosis/
+→ See `projects/Quantum_Machine_Learning_for_Medical_Diagnosis/`
+
 ---
 
 

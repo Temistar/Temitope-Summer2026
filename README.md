@@ -1,6 +1,6 @@
 # Temitope-Summer2026
 Summer 2026 – Quantum Computing &amp; AI Internship/Research Availability
-# Summer 2025 – Research & Technical Availability  
+# Summer 2026 – Research & Technical Availability  
 **Temitope Adeniyi**  
 PhD Student | Quantum Computing | AI | Science Policy  
 

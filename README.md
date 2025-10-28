@@ -8,6 +8,8 @@ Hi! I’m Temitope, a PhD student in Computer Science at Cleveland State Univers
 
 - Machine Learning/Deep Learning
 - Quantum circuit optimisation and sensing
+- Data Science and Analytics
+- AI Automation, Agentic AI, and Intelligent Systems
 - Quantum machine learning and hybrid models
 - Quantum error mitigation
 - Curriculum design and STEM education

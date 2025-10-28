@@ -1,4 +1,5 @@
-# Temitope-Summer2026
+# Temitope-Research Projects
+\
 Summer 2026 – Quantum Computing &amp; AI Internship/Research Availability
 # Summer 2026 – Research & Technical Availability  
 **Temitope Adeniyi**  
